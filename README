@@ -1,3 +1,5 @@
 Created a CSV folder to hold all the csv's for the project.
 We created a google share drive to hold a Northwind Spreadsheet with the sheets of all the csv's.
 We created a GCP project and another project in Firebase, we also downloaded our authentication keys.
+Added the group3-employees.gs app script into the repository.
+Added the northwind-all-tables.gs app script to the repository.
